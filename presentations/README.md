@@ -1,19 +1,75 @@
 
 # 📁 What You’ll Find Here
 
-- Diagrams, images, screenshots, slides  
-- Reference architectures, blueprints, and comments  
-- Decks of ideas, brainstorming outputs, and snippets from official documentation  
-- Quotes, analysis, and design thinking notes  
+Diagrams, images, screenshots, slides, reference architectures, blueprints, comments, decks of ideas, brainstorming outputs, and snippets from official documentation, quotes, analysis, and design thinking notes.
+
+- Adobe Blueprints
+- Enterprise Architecture Governance
+- HR Digital Transformation
+- SAP Reference Architecture for Retail
+
+---
+
+# 🏛️ Architecture Governance
+
+## 📘 Overview
+
+This repository accompanies a comprehensive presentation on **Architecture Governance**, tailored to enterprise and digital transformation leaders, architects, engineers, and technology strategists.  
+
+It explores industry frameworks, proven architectural models, agile practices, and SAP-aligned governance principles relevant to large-scale organisations—particularly in the **retail and convenience sector**.
+
+> ⚠️ *Disclaimer:*  
+> The content is based on public sources, industry practices, and architecture frameworks. It does not disclose proprietary strategies or internal systems of any specific client.
+
+---
+
+## 🧭 Key Themes
+
+- 🔍 **Architecture Governance Models** – balancing speed and control, decision authority, decentralised structures
+- 🏗️ **Agile & Scaled Architectures** – TOGAF, SAFe, Clean Core, Lean EA Toolkit
+- 🧱 **SAP-Centric Blueprints** – process architecture, solution intent, extension classifications
+- 🔄 **Modern Enterprise Roles** – RACI-style role maps, including domain and solution architects
+- 💡 **Design Thinking + EA** – integrating strategy, UX, and system thinking
+
+---
+
+## 📚 Contents
+
+### 🔹 Enterprise Architecture Topics
+- The evolving role of enterprise architecture
+- Agile architecture: principles and implementation
+- Decentralised decision-making and solution delivery
+- Comparison of architecture roles (business, solution, data, security, etc.)
+
+### 🔹 SAP Best Practices
+- SAP Clean Core approach: process, data, integration, extensions, operations
+- Classification of technical patterns (Green/Amber/Red)
+- Use of Signavio, BTP, and LeanIX in enterprise architecture
+
+### 🔹 Governance Structures
+- Architecture Runway, Tech Advisory Groups
+- Product-driven vs Organisation-driven governance
+- Key Design Decisions (KDD) and Sprint-level collaboration
+
+### 🔹 Delivery Artefacts
+- Strategy Maps & Statement of Architecture Work (TOGAF)
+- Solution Context, Solution Concept, and Realisation diagrams
+- Architecture Roadmap with phased capability rollouts
+
+---
+
+## 🎯 Target Audience
+
+This content is for:
+- Enterprise and Solution Architects  
+- Engineering Leads and Tech Owners  
+- Digital Transformation Teams  
+- SAP Platform Owners and Integration Architects  
+- Product Owners and Business Analysts  
 
 ---
 
 # 💼 HR Digital Transformation
-
-Welcome!  
-This repository contains a curated collection of artefacts and ideas related to HR Digital Transformation.
-
----
 
 ## 🌐 Introduction
 
